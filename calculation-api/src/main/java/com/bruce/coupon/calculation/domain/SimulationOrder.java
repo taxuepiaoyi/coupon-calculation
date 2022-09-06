@@ -1,6 +1,6 @@
 package com.bruce.coupon.calculation.domain;
 
-import com.geekbang.coupon.template.api.beans.CouponInfo;
+import com.bruce.coupon.template.domain.CouponInfo;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

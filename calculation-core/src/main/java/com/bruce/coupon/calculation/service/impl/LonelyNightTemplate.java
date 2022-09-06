@@ -2,8 +2,6 @@ package com.bruce.coupon.calculation.service.impl;
 
 import com.bruce.coupon.calculation.service.RuleTemplate;
 import com.bruce.coupon.calculation.template.AbstractRuleTemplate;
-import com.geekbang.coupon.calculation.template.AbstractRuleTemplate;
-import com.geekbang.coupon.calculation.template.RuleTemplate;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
